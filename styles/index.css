@@ -1,0 +1,46 @@
+/* Corps de page */
+
+
+/* Classes*/
+
+.accueil-introduction {
+    display: flex;
+    flex-direction: row;
+    max-width: 1000px;
+    align-items: flex-start;
+    margin: auto;
+}
+
+.accueil-introduction h1 {
+    margin-bottom: 15px;
+}
+
+.accueil-introduction p {
+    margin-bottom: 30px;
+}
+
+.accueil-introduction div {
+    padding-right: 80px;
+}
+
+.accueil-dernier-projet {
+    background-color: white;
+    padding: 80px;
+}
+
+.accueil-dernier-projet h1, h2, p{
+    color: #242424;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.accueil-dernier-projet a{
+    text-decoration: underline;
+    color: blue;
+}
+  
+
+/* Indexs */
+
+
+/* Responsive */
