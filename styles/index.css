@@ -23,6 +23,12 @@
     padding-right: 80px;
 }
 
+.accueil-introduction img {
+    width: 30%;
+    height: auto;
+    
+}
+
 .accueil-dernier-projet {
     background-color: white;
     padding: 80px;
@@ -37,6 +43,13 @@
 .accueil-dernier-projet a{
     text-decoration: underline;
     color: blue;
+}
+.accueil-dernier-projet div {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    justify-content: center;
+    margin-bottom: 15px;
 }
   
 
